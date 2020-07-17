@@ -10,3 +10,5 @@ This is Saurabh, I'm a student 👨‍💻 who is passionate about Python Develo
 - 📫 How to reach me: Links are given above 🔝
 - ⚡ Languages: Python, JavaScript and Flutter.
 - 🤪 Fun fact: I don't even know why my username is ssbeast.🙀
+
+<img src="https://github-readme-stats.vercel.app/api?username=ssbeast&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
