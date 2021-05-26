@@ -15,7 +15,7 @@ A 20Y/O Flutter and Web developer🎯 from India. I'm passionate about Full-Stac
 - 👯 I’m looking to collaborate on Projects related to pretty much any domain such as Web- Development , Flutter- Development, etc ,I am a fast learner though!.
 - 😄 Pronouns: he/him/his
 - 💬 Ask me about: Memes.😆
-- ⚡ Fun fact: I can chew an bubblegum for 6 hours continuously! 😄 
+- ⚡ Fun fact: I can chew a bubblegum for 6 hours continuously! 😄 
 <br />
 
 
