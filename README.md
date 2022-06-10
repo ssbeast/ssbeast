@@ -1,4 +1,4 @@
-<h1 align="center">Yo <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> , I'm Saurabh Sahu aka ssbeast! : ) </h1>
+<h1 align="center">Yo, I'm Saurabh Sahu aka ssbeast! : / </h1>
 
 <h3 align="center">I'm a Developer from India ❤</h3>
   
