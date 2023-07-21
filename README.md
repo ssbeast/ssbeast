@@ -11,10 +11,10 @@ A 20Y/O Flutter and Web developer🎯 from India. I'm passionate about Full-Stac
 
 <img width="35%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/ssbeast/ssbeast/master/cover.png" />
 
-- 🌱 I’m currently trying to master Full Stack Web Development .
+- 🌱 I’m currently trying to master Full Stack Web Development.
 - 👯 I’m looking to collaborate on Projects related to pretty much any domain such as Web- Development , Flutter- Development, etc ,I am a fast learner though!.
 - 😄 Pronouns: he/him/his
-- 💬 Ask me about: Memes.😆
+- 💬 Ask me about: Memes, Anime, Valorant and lil bit of Python too ;-/
 - ⚡ Fun fact: I can chew a bubblegum for 6 hours continuously! 😄 
 <br />
 
